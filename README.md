@@ -6,7 +6,7 @@ Thu Feb 26 21:18:47 PST 2015
 
 
 # Goal
-[Wireframe]() will highlight the `div`s in the website to help developers to get a general idea about the website layout.
+[Wireframe](https://chrome.google.com/webstore/detail/wireframe/amchfjeinhflcmbpdgdihhdoogdagcaf) will highlight the `div`s in the website to help developers to get a general idea about the website layout.
 
 
 ## Screenshot
