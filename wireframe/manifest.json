@@ -1,7 +1,7 @@
 {
     "name": "Wireframe",
     "manifest_version": 2,
-    "version": "0.1",
+    "version": "0.2",
     "description": "Colors the divs of the pages, wireframe up!",
     "browser_action": {
         "default_popup": "popup.html"
